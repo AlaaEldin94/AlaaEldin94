@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AlaaEldin
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and MachineLearning 
 - 🌱 I’m currently learned python , SQL and tableau
 - 💞️ I’m looking to collaborate on Analysing Data
 - 📫 How to reach me E-mail: malaa23194@gmail.com
