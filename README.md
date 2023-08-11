@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Analyst and Data Engineering 
 - 🌱 I’m currently learned python , SQL and tableau
 - 💞️ I’m looking to collaborate on Analysing Data
-- 📫 How to reach me E-mail: malaa23194@gmail.com
-linkedIn : www.linkedin.com/in/alaaeldin-manse-624188230/
+- 📫 How to reach me ? **E-mail**: malaa23194@gmail.com
+**linkedIn** : www.linkedin.com/in/alaaeldin-manse-624188230/
 
 <!---
 AlaaEldin94/AlaaEldin94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
