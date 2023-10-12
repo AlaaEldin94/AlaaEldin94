@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AlaaEldin
 - 👀 I’m interested in Data Analyst and Data Engineering 
-- 🌱 I’m currently learned python , SQL and tableau
-- 💞️ I’m looking to collaborate on Analysing Data
+- 🌱 I’m currently learned python , SQL and tableau 
+- 💞️ I’m looking to collaborate on Analysing and Engineering Data
 - 📫 How to reach me ? **E-mail**: malaa23194@gmail.com
 **linkedIn** : www.linkedin.com/in/alaaeldin-manse-624188230/
 
